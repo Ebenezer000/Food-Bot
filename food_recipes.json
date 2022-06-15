@@ -1,0 +1,22 @@
+{"Recipes": {
+    "whie rice and stew" : {
+        "ingredients":["rice", "tomato", "groundnut oil", "onions", "pepper", "maggi", "salt"],
+        "to buy": ["fresh tomatoes"],
+        "proteins": ["fish", "meat", "egg"],
+        "recipeUrl": "" 
+    },
+    "oil beans": {
+        "ingredients":["beans", "red oil", "onions", "maggi", "salt", "pepper"],
+        "to buy": ["potash(akoun)"],
+        "proteins": ["fish", "dryfish", "sardine"],
+        "recipeUrl": ""
+    },
+    "okra soup": {
+        "ingredients":["red oil", "onions", "maggi", "salt", "pepper"],
+        "to buy": ["okra", "Ugu or Uziza leaf"],
+        "proteins": ["fish","beef meat","goat meat", "dryfish"],
+        "recipeUrl": ""
+    }
+
+    }
+}
